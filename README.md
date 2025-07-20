@@ -1,16 +1,13 @@
-# 👋 Hey, I'm Rubiga!
-
-🎓 **3rd Year IT Student | DSA & Problem Solving Enthusiast**
-
-I’m passionate about **solving algorithmic challenges** and strengthening my skills in **Java, Python, and C++**.  
-I focus on **continuous problem-solving** and aim to excel in **coding interviews & contests**.
+<!-- Typing animation header -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=800&lines=Hey%2C+I'm+Rubiga!;3rd+Year+IT+Student;DSA+%26+Java+Enthusiast+💻;Problem+Solver+%7C+Lifelong+Learner)](https://git.io/typing-svg)
 
 ---
 
 ## 🚀 **About Me**
+- 🎓 **3rd Year IT Student (B.Tech IT)**  
 - 🌱 Currently mastering **Data Structures & Algorithms (DSA)**  
 - 💡 Solving problems on **LeetCode (80+) & GFG (140+)**  
-- 🎯 Goal: **Crack product-based company interviews**
+- 🎯 Goal: **Crack product-based company interviews**  
 
 ---
 
@@ -34,15 +31,10 @@ I focus on **continuous problem-solving** and aim to excel in **coding interview
 
 ---
 
----
-
-### **GeeksforGeeks**
+### **GeeksforGeeks**  
 **Profile:** [Rubika Sekar](https://www.geeksforgeeks.org/user/rubikase0fnz/)  
-
 ![GFG Stats](https://gfg-stats-card.vercel.app/?user=rubikase0fnz&theme=dark&border_color=4CAF50&title_color=4CAF50)  
-
 **140+ problems solved**
- 
 
 ---
 
