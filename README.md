@@ -2,15 +2,15 @@
 
 🎓 **3rd Year IT Student | DSA & Problem Solving Enthusiast**
 
-I’m passionate about **solving algorithmic challenges** and building strong foundations in **Java and DSA**.  
-I focus on **continuous learning** and love improving my problem-solving skills every day.
+I’m passionate about **solving algorithmic challenges** and strengthening my skills in **Java, Python, and C++**.  
+I focus on **continuous problem-solving** and aim to excel in **coding interviews & contests**.
 
 ---
 
 ## 🚀 **About Me**
 - 🌱 Currently mastering **Data Structures & Algorithms (DSA)**  
 - 💡 Solving problems on **LeetCode (80+) & GFG (140+)**  
-- 🎯 Goal: To **excel in coding interviews** & competitive programming  
+- 🎯 Goal: **Crack product-based company interviews**
 
 ---
 
@@ -25,20 +25,24 @@ I focus on **continuous learning** and love improving my problem-solving skills 
 
 ---
 
-## 🏆 **LeetCode & GFG Stats**
-**LeetCode:** [Rubiga_S05](https://leetcode.com/u/Rubiga_S05/)  
+## 🏆 **Problem Solving Profiles**
+
+### **LeetCode**  
+**Profile:** [Rubiga_S05](https://leetcode.com/u/Rubiga_S05/)  
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Rubiga_S05?theme=dark&font=Karma&ext=activity)  
 **50+ days badge | 60 active days | 80+ problems solved | 34 recent solves**
 
-**GeeksforGeeks:** [Rubika Sekar](https://www.geeksforgeeks.org/user/rubikase0fnz/)  
-![GFG Stats](https://gfg-stats-card.vercel.app/?user=rubikase0fnz)  
-**140+ problems solved**
+---
+
+### **GeeksforGeeks**  
+**Profile:** [Rubika Sekar](https://www.geeksforgeeks.org/user/rubikase0fnz/)  
+![GFG Stats](https://gfg-stats-card.vercel.app/?user=rubikase0fnz&theme=dark)  
+**140+ problems solved**  
 
 ---
 
 ## 📈 **GitHub Analytics**
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rubigasekar&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rubigasekar&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubigasekar&layout=compact&theme=radical)
 
 ---
@@ -51,4 +55,3 @@ I focus on **continuous learning** and love improving my problem-solving skills 
 ---
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Rubigasekar&color=brightgreen)
-
