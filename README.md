@@ -34,10 +34,15 @@ I focus on **continuous problem-solving** and aim to excel in **coding interview
 
 ---
 
-### **GeeksforGeeks**  
+---
+
+### **GeeksforGeeks**
 **Profile:** [Rubika Sekar](https://www.geeksforgeeks.org/user/rubikase0fnz/)  
-![GFG Stats](https://gfg-stats-card.vercel.app/?user=rubikase0fnz&theme=dark)  
-**140+ problems solved**  
+
+![GFG Stats](https://gfg-stats-card.vercel.app/?user=rubikase0fnz&theme=dark&border_color=4CAF50&title_color=4CAF50)  
+
+**140+ problems solved**
+ 
 
 ---
 
