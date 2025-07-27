@@ -26,7 +26,7 @@
 
 ### **LeetCode**  
 **Profile:** [Rubiga_S05](https://leetcode.com/u/Rubiga_S05/)  
-![LeetCode Stats](https://leetcard.jacoblin.cool/Rubiga_S05?theme=dark&font=Karma&ext=activity)  
+![LeetCode Stats]("C:\Users\91936\Desktop\leetcode profile.png")  
 **50+ days badge | 60 active days | 80+ problems solved | 34 recent solves**
 
 ---
