@@ -26,14 +26,14 @@
 
 ### **LeetCode**  
 **Profile:** [Rubiga_S05](https://leetcode.com/u/Rubiga_S05/)  
-![LeetCode Stats]("[C:\Users\91936\Desktop\leetcode profile.png](https://github.com/Rubigasekar/Rubigasekar/blob/main/gfg%20profile.png)")  
+![LeetCode Stats](https://github.com/Rubigasekar/Rubigasekar/blob/main/gfg%20profile.png) 
 **50+ days badge | 60 active days | 80+ problems solved | 34 recent solves**
 
 ---
-
+https://github.com/Rubigasekar/Rubigasekar/blob/main/gfg%20profile.png
 ### **GeeksforGeeks**  
 **Profile:** [Rubika Sekar](https://www.geeksforgeeks.org/user/rubikase0fnz/)  
-![GFG Stats]("C:\Users\91936\Desktop\leetcode profile.png")  
+![GFG Stats](https://github.com/Rubigasekar/Rubigasekar/blob/main/gfg%20profile.png)
 **140+ problems solved**
 
 ---
