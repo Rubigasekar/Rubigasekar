@@ -13,7 +13,6 @@
 
 ## 💻 **Tech Stack**
 <p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -28,15 +27,15 @@
 **Profile:** [Rubiga_S05](https://leetcode.com/u/Rubiga_S05/)  
 ![LeetCode Stats](https://github.com/Rubigasekar/Rubigasekar/blob/main/leetcode%20profile.png)
 
-**50+ days badge | 60 active days | 80+ problems solved | 34 recent solves**
+**50+ days badge | 60 active days | 90+ problems solved | 34 recent solves**
 
 ---
-https://github.com/Rubigasekar/Rubigasekar/blob/main/gfg%20profile.png
+
 ### **GeeksforGeeks**  
 **Profile:** [Rubika Sekar](https://www.geeksforgeeks.org/user/rubikase0fnz/)  
 ![GFG Stats](https://github.com/Rubigasekar/Rubigasekar/blob/main/gfg%20profile.png)
 
-**140+ problems solved**
+**170+ problems solved**
 
 ---
 
