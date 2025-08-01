@@ -4,9 +4,9 @@
 ---
 
 ## 🚀 **About Me**
-- 🎓 **3rd Year IT Student (B.Tech IT)**  
+- 🎓 **Final Year IT Student (B.Tech IT)**  
 - 🌱 Currently mastering **Data Structures & Algorithms (DSA)**  
-- 💡 Solving problems on **LeetCode (80+) & GFG (140+)**  
+- 💡 Solving problems on **LeetCode (100+) & GFG (180+)**  
 - 🎯 Goal: **Crack product-based company interviews**  
 
 ---
